@@ -409,6 +409,7 @@ nav li {
 }
 
 .app-icons {
+    width: 318px
     position: absolute;
     top: 71%;
     left: 30%;
