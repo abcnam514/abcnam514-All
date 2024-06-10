@@ -57,6 +57,7 @@ text{
     display: inline;
     margin: 180px 200px 0 1000px;
     text-align: right;
+    z-index: 1;
 }
 
 #plant_sub, #plant {
